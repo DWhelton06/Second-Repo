@@ -1,6 +1,6 @@
 import math
 
-#PArt A
+#Part A
 survey_angle = float(input("Enter the survey angle in degrees: "))
 shadow_length = float(input("Enter the shadow length in meters: "))
 
